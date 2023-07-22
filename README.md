@@ -85,11 +85,8 @@ Use the `BLANK_README.md` to get started.
 
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Sharp][Bootstrap.com]][Sharp-url]
+* [![Fs][JQuery.com]][Fs-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,8 +94,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
@@ -185,3 +181,5 @@ Project Link: [Lottie File Optimizer](https://github.com/SJunWah/lottie-file-opt
 [issues-url]: https://github.com/SJunWah/lottie-file-optimizer/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/junwahsoh
+[sharp-url]:https://sharp.pixelplumbing.com/
+[fs-url]: https://linkedin.com/in/junwahsoh
