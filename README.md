@@ -76,10 +76,13 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. Place the JSON file you want to optimize into the inputs folder located at the root of the project.
+2. Open your terminal or command prompt.
+3. Run the following command to start the optimization process:
+```sh
+node index.js
+```
+5. After the optimization process is complete, you can find the optimized JSON file in the output folder.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
