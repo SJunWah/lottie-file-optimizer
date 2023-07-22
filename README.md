@@ -21,7 +21,7 @@
 
 </div>
 
-###Introduction
+### Introduction
 Lottie file Optimizer is a simple command-line tool that allows you to optimize your lottie JSON files effortlessly. It helps reduce the size of your lottie JSON files up to 50% without losing any essential data. 
 
 ### Built With
