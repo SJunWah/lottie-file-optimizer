@@ -16,7 +16,7 @@
 
   <h3 align="center">Lottie File Optimizer</h3>
 
-Website Link: [Tiny Lottie](https://tinylottie.vercel.app)
+Website Link: [Tiny Lottie](https://www.tinylottie.vercel.app)
 </div>
 
 ### Introduction
